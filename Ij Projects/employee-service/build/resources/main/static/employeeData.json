@@ -1,0 +1,17 @@
+[
+  {
+    "employeeId": 1,
+    "employeeName": "Natasha",
+    "departmentId": 1
+  },
+  {
+    "employeeId": 2,
+    "employeeName": "Nobita",
+    "departmentId": 2
+  },
+  {
+    "employeeId": 3,
+    "employeeName": "Neeta",
+    "departmentId": 3
+  }
+]
